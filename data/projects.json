@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "BookRack",
+    "desc": "A web app that acts as your own digital library. View lists of books that you have completed or haven't read. Books that you own or want to buy. All these features and more, now just a click away. (Backend is hosted on heroku so please wait for a few minutes for the site to load)",
+    "stack": [
+      "React",
+      "React Router v6",
+      "Context API",
+      "SASS",
+      "Framer motion",
+      "Responsive Design",
+      "NodeJS",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "REST API"
+    ],
+    "git": "https://github.com/ManeeshBusi/bookrack-client",
+    "link": "https://bookrack-sudokun.netlify.app/",
+    "vid": "https://www.youtube.com/embed/e2J5Ckc1Ooc"
+  }
+]

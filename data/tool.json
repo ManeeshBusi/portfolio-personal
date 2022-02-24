@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "img": "/images/git.png",
+    "name": "Git"
+  },
+  {
+    "id": 2,
+    "img": "/images/fig.png",
+    "name": "Figma"
+  }
+]

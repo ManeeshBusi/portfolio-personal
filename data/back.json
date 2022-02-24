@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "img": "/images/nod.png",
+    "name": "NodeJS"
+  },
+  {
+    "id": 2,
+    "img": "/images/ex1.png",
+    "name": "Express"
+  },
+  {
+    "id": 3,
+    "img": "/images/mon1.png",
+    "name": "MongoDB"
+  },
+  {
+    "id": 4,
+    "img": "/images/mong.png",
+    "name": "Mongoose"
+  },
+  {
+    "id": 5,
+    "img": "/images/res.png",
+    "name": "RESTful API"
+  },
+  {
+    "id": 6,
+    "img": "/images/pos.png",
+    "name": "PostgreSQL"
+  },
+  {
+    "id": 7,
+    "img": "/images/orm.png",
+    "name": "Sequelize ORM"
+  }
+]
